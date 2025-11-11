@@ -31,7 +31,7 @@ Integramos ferramentas essenciais para que seu site trabalhe de forma eficiente:
 
 ---
 
-## 💡 Por que escolher a SoluLab?
+## 💡 Por que escolher a EvoluLab?
 - Experiência em **design moderno e funcional**
 - Sites construídos para **atrair, engajar e converter**
 - Foco em resultados reais e **otimização contínua**
