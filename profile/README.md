@@ -39,12 +39,12 @@ Integramos ferramentas essenciais para que seu site trabalhe de forma eficiente:
 
 ---
 
-## 📞 Contato
+<!--- ## 📞 Contato
 Entre em contato para orçamentos e parcerias:
 
-- 🌐 Site:   
+🌐 Site:   
 - 📧 E-mail: 
 - 🔗 LinkedIn: 
----
+--->
 
 Solulab soluções web – Transformando sua presença digital em resultados.
